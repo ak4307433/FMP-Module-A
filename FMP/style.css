@@ -1,0 +1,31 @@
+.banner{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhc091zXBtfJSBHKSn2Tz4acPYl7SwRhjTJg&usqp=CAU");
+    height: 800px;
+
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.on{
+    font-style: italic;
+}
+
+
+.to{
+    background-color: lightskyblue;
+    height: 80px;
+    font-size: larger;
+    font-style: italic;
+
+}
+.to1{
+    font-style: italic;
+}
+.btn2{
+    background-color: lightskyblue;
+}
+
+.fs{
+    font-style: italic;
+}
+
